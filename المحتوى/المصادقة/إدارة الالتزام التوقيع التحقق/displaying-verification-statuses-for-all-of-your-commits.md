@@ -34,6 +34,6 @@ You should only enable vigilant mode if you sign all of your commits and tags an
 
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
-3. On the SSH Settings page, under "Vigilant mode," select **Flag unsigned commits as unverified**.
-
-   ![Flag unsigned commits as unverified checkbox](/assets/images/help/commits/vigilant-mode-checkbox.png)
+3. في صفحة إعدادات SSH ، ضمن "وضع اليقظة" ، حدد ** الإبلاغ عن الالتزامات غير الموقعة على أنها لم يتم التحقق منها ** .
+احدث 
+   ! [وضع علامة على الالتزامات غير الموقعة كمربع اختيار لم يتم التحقق منه] (/assets/images/help/commits/vigilant-mode-checkbox.png)
